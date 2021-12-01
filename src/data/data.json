@@ -25,14 +25,29 @@
         "smallImage": "img/portfolio/electrician.jpg"
       },
       {
-        "title": "Plumber",
+        "title": "paiture",
+        "largeImage": "img/portfolio/paiture.jpg",
+        "smallImage": "img/portfolio/paiture.jpg"
+      },
+      {
+        "title": "jardinier",
+        "largeImage": "img/portfolio/jardinier.jpg",
+        "smallImage": "img/portfolio/jardinier.jpg"
+      },
+      {
+        "title": "carpenter",
+        "largeImage": "img/portfolio/carpenter.jpg",
+        "smallImage": "img/portfolio/carpenter.jpg"
+      },
+      {
+        "title": "plumbing",
         "largeImage": "img/portfolio/plumbing.jpg",
         "smallImage": "img/portfolio/plumbing.jpg"
       },
       {
-        "title": "paiture",
-        "largeImage": "img/portfolio/paiture.jpg",
-        "smallImage": "img/portfolio/paiture.jpg"
+        "title": "installation parabole",
+        "largeImage": "img/portfolio/parabole.jpg",
+        "smallImage": "img/portfolio/parabole.jpg"
       }
     ],
     "Services": [

@@ -5,6 +5,7 @@ import  About  from "./components/about";
 import  Gallery  from "./components/gallery";
 import  Testimonials  from "./components/testimonials";
 import  Team  from "./components/Team";
+import  {Contact}  from "./components/contact";
 import JsonData from "./data/data.json";
 import "./App.css";
 
@@ -18,6 +19,7 @@ function App() {
       <Gallery data={JsonData.Gallery}/>
       <Testimonials data={JsonData.Testimonials} />
       <Team data={JsonData.Team} />
+      <Contact data={JsonData.Contact} />
     </div>
   );
 }
