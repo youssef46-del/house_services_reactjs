@@ -51,14 +51,10 @@ function navigation() {
               </a>
             </li>
             <li>
-              <a href='#' className='login'>
-                Log In
-              </a>
+            <button type="button" className="btn btn-outline-info" id="login">Log In</button>
             </li>
             <li>
-              <a href='#' className='login'>
-                Sing Up
-              </a>
+            <button type="button" className="btn btn-outline-info" id="singup">Sing Up</button>
             </li>
           </ul>
         </div>

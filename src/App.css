@@ -16,8 +16,14 @@
     width: 110%;
   }
 }
-.login{
-  background-color: rgba(75, 175, 221, 0.281);
-  border: solid rgba(121, 118, 118, 0.541) 0.1px;
-  border-radius: 20%;
+#login{
+  padding: 10px;
+  width: 90px;
+}
+#singup{
+  padding: 10px;
+  width: 90px;
+}
+.btn{
+  margin: 10px;
 }
